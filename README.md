@@ -1,4 +1,4 @@
-# 👨‍💻 Full Stack Developer
+# 👨‍💻 Ana González
 
 ¡Hola! Soy un desarrollador Full Stack con experiencia en la creación de aplicaciones web robustas y eficientes utilizando una amplia gama de tecnologías del lado del cliente y del servidor.
 
@@ -33,7 +33,7 @@
 ## 📫 Contacto
 
 - 💼 [Mi GitHub](https://github.com/A-G732)
-- 📧 Email: <tu.email@dominio.com>
+- 📧 Email: <a.g.g0109180@gmail.com>
 - 🌐 Portafolio: [tuportafolio.com](https://tuportafolio.com) *(si tienes uno)*
 
 ---
