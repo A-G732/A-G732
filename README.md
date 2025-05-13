@@ -1,61 +1,41 @@
-# 💻 Juan Pérez
-**Fullstack Developer**
+# 👨‍💻 Full Stack Developer
 
-📍 Ciudad, País | 📧 juanperez@email.com | 📞 +123 456 789 | 🌐 www.juanperez.dev | [GitHub](https://github.com/juanperez) · [LinkedIn](https://linkedin.com/in/juanperez)
+¡Hola! Soy un desarrollador Full Stack con experiencia en la creación de aplicaciones web robustas y eficientes utilizando una amplia gama de tecnologías del lado del cliente y del servidor.
 
----
+## 🚀 Tecnologías y Lenguajes
 
-## 🧠 Tecnologías & Lenguajes
+### Frontend
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 
-- ![JS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) **JavaScript**
-- ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) **React.js**
-- ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) **Java** – Programación Orientada a Objetos (POO)
-- ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) **Python**
-- ![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg) **Django**
-- ![Laravel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg) **Laravel**
-- ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg) **PHP**
-- ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) **HTML5**
-- ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) **CSS3**
+### Backend
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 
----
-
-## 🛠️ Habilidades
-
-- Desarrollo Frontend y Backend
-- APIs REST y autenticación JWT
-- Control de versiones con Git & GitHub
-- Integración de bases de datos (MySQL, PostgreSQL)
-- Testing (unitario y funcional)
-- Metodologías ágiles (Scrum/Kanban)
+### Programación Orientada a Objetos
+🧩 Amplia experiencia aplicando principios de POO en Java, PHP y Python.
 
 ---
 
-## 🧑‍💼 Experiencia Profesional
+## 🧰 Herramientas y Plataformas
 
-**Desarrollador Fullstack** – _Empresa X_  
-📆 Enero 2022 – Actualidad  
-- Desarrollo de aplicaciones web SPA con React y Django.
-- Implementación de APIs seguras en Laravel y Django REST Framework.
-- Despliegue en servidores Linux y Heroku.
-
-**Desarrollador Backend (Java + Spring)** – _Empresa Y_  
-📆 2020 – 2021  
-- Mantenimiento de microservicios Java.
-- Refactorización de código con enfoque POO y patrones SOLID.
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ---
 
-## 🎓 Educación
+## 📫 Contacto
 
-**Ingeniería en Sistemas Computacionales**  
-Universidad Tecnológica X | 📆 2016 – 2020
-
----
-
-## 🧩 Proyectos Destacados
-
-- **Dashboard Financiero**: React + Django + PostgreSQL
-- **Sistema de Gestión Escolar**: Laravel + Vue + MySQL
-- **API Clima**: Python + Flask con frontend en JS Vanilla
+- 💼 [Mi GitHub](https://github.com/A-G732)
+- 📧 Email: <tu.email@dominio.com>
+- 🌐 Portafolio: [tuportafolio.com](https://tuportafolio.com) *(si tienes uno)*
 
 ---
+
+💡 *Siempre buscando aprender y enfrentar nuevos retos tecnológicos.*
