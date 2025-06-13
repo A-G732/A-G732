@@ -1,4 +1,4 @@
-# 👩‍💻 A-G732 - Desarrolladora Fullstack
+# 👩‍💻 Ana González - Desarrolladora Fullstack
 
 [![GitHub](https://img.shields.io/badge/GitHub-A--G732-181717?logo=github&style=flat-square)](https://github.com/A-G732)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square)](https://laravel.com/)
