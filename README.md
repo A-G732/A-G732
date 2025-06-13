@@ -16,7 +16,7 @@ Me considero **proactiva**, con gran capacidad de trabajo en equipo y con un com
 
 ---
 
-## 🧠 Habilidades Técnicas
+## 🧠 Habilidades Técnicas 
 
 ### 👨‍💻 Lenguajes y Frameworks
 
