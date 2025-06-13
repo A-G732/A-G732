@@ -54,6 +54,7 @@ Me considero **proactiva**, con gran capacidad de trabajo en equipo y con un com
 ## 📬 Contacto 
 
 TEL - 3128327074
+---
 Email - a.g.g0109180@gmail.com
 
 Puedes ver más de mis proyectos en [mi perfil de GitHub](https://github.com/A-G732). ¡Estoy abierta a oportunidades para aprender y crecer profesionalmente!
